@@ -1,0 +1,2 @@
+#!/biin/bash
+echo $$((BREATH**LOVE))
