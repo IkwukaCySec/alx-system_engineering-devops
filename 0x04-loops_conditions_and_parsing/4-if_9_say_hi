@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Using 'while' loop, display "Best School" 10 times but 'Hi' on the 9th iteration
+
+index=0
+
+while [ $index -lt 10 ]
+do
+	echo "Best School"
+	if [ $index -eq 8 ]
+	then
+		echo "Hi"
+	fi
+		((index++))
+done
