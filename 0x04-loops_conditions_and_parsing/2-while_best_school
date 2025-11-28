@@ -1,0 +1,9 @@
+# Display "Best School" to the stdout using a 'while' loop
+
+index=0
+
+while [ $index -lt 10 ]
+do
+	echo "Best School"
+	((index++))
+done
