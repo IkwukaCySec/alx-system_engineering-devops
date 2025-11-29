@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 # Display "Best School" to the stdout using a 'while' loop
 
 index=0
