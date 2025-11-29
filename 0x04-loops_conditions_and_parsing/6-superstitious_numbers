@@ -1,0 +1,17 @@
+#!/usr/bin/env bash
+# Display numbers from 1 to 20:
+# display 4 and the 'bad luck from China' for the 4th loop;
+# display 9 and then 'bad luck from Japan' for the h9th loop; and
+# display 17 and then 'bad luck from Italy' for the 17th loop.
+
+number=1
+
+while [ $number -lt 21 ]
+do
+	case "$number" in
+		4) echo -e "$number\nbad luck from China";;
+		9) echo -e "$number\nbad luck from Japan";;
+		17) echo -e "$number\nbad luck from Italy";;
+	esac
+		((number++))
+done
