@@ -5,7 +5,7 @@
 
 index=0
 
-while [ index -lt 10 ]
+while [ $index -lt 10 ]
 do
 	if [ $index -eq 3 ]
 	then
