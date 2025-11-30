@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+# Display the vsistor IP along with the HTTP status code
+# from the Apache log file (apache-access.log)
+
+awk '{ print $1 " " $9 }' apache-access.log
+
