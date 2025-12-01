@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+# Display "To infinity and beyond" indefinitely with a 2 sec delay
+# And display "I am invincible!!!" in between each iteration.
+
+while true
+do
+	echo "To infinity add beyond"
+	sleep 2
+	trap 'echo "I am invincible!!!"' SIGTERM
+done
