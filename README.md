@@ -41,4 +41,5 @@ This is part of the tasks/projects covered in the revamped **[ALX Software Engin
 |**[0x07-networking_basics](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x07-networking_basics)**|0-OSI_model, 1-types_of_network, 2-MAC_and_IP_address, 3-UDP_and_TCP, 4-TCP_and_UDP_ports, 5-is_the_host_on_the_network, README.md|
 |**[0x08-networking_basics_2](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)**|0-change_your_home_IP, 1-show_attached_IPs, 100-port_listening_on_localhost, README.md|
 |**[0x09-web_infrastructure_design](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)**|0-simple_web_stack, 1-distributed_web_infrastructure, 2-secured_and_monitored_web_infrastructure, 3-scale_up, README.md|
+|**[0x0A-configuration_management](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0A-configuration_management)**|0-create_a_file.pp, 1-install_a_package.pp, 2-execute_a_command.pp, README.md|
 |||
