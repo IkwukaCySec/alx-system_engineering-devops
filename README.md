@@ -27,6 +27,15 @@ This is part of the tasks/projects covered in the revamped **[ALX Software Engin
 - To run the file, enter `./file_name` and click the "Enter" button
 - If you encounter any challenging error or bugs, please report the issue or create a Pull Request. Thank you!
 
+### How To Check if Bash/Shell Syntax Is Correct
+
+- Enter (`cd`) your desired directory 
+- Type `Shellcheck` followed by 'file_name'
+- Click the Enter button.
+
+1. If there are/is errors you will pointed to the spotted bugs, to be fixed.
+2. But if your Bash command is correct, the testing command will display nothing.
+
 ### Projects and File Contents
 
 | **Project**   |   **File Contents** |
