@@ -50,7 +50,14 @@ This is part of the tasks/projects covered in the revamped **[ALX Software Engin
 |**[0x07-networking_basics](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x07-networking_basics)**|0-OSI_model, 1-types_of_network, 2-MAC_and_IP_address, 3-UDP_and_TCP, 4-TCP_and_UDP_ports, 5-is_the_host_on_the_network, README.md|
 |**[0x08-networking_basics_2](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x08-networking_basics_2)**|0-change_your_home_IP, 1-show_attached_IPs, 100-port_listening_on_localhost, README.md|
 |**[0x09-web_infrastructure_design](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x09-web_infrastructure_design)**|0-simple_web_stack, 1-distributed_web_infrastructure, 2-secured_and_monitored_web_infrastructure, 3-scale_up, README.md|
+|**[0x10-https_ssl](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x10-https_ssl)**|0-world_wide_web, 1-haproxy_ssl_termination, 100-redirect_http_to_https, README.md|
+|**[0x11-what_happens_when_you_type_google_com_in_your_browser_and_press_enter](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x11-what_happens_when_you_type_google_com_in_your_browser_and_press_enter)**|0-blog_post, README.md|
+|**[0x012-web_stack_debugging_2](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x12-web_stack_debugging_2)**|0-iamsomeoneelse, 1-run_nginx_as_nginx, 100-fix_in_7_lines_or_less, README.md|
 |**[0x0A-configuration_management](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0A-configuration_management)**|0-create_a_file.pp, 1-install_a_package.pp, 2-execute_a_command.pp, README.md|
 |**[0x0B-ssh](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0B-ssh)**|0-use_a_private_key, 1-create_ssh_key_pair, 2-ssh_config, 100-puppet_ssh_config.pp, README.md|
 |**[0x0C-web_server](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0C-web_server)**|0-transfer_file, 1-install_nginx_web_server, README.md|
+|**[0x0D-web_stack_debugging_0](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0D-web_stack_debugging_0)**|0-give_me_a_page, README.md|
+|**[0x0E-web_stack_debugging_1](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0E-web_stack_debugging_1)**|0-nginx_likes_port_80, 1-debugging_made_short, README.md|
+|**[0x0F-load_balancer](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/0x0F-load_balancer)**|0-custom_http_response_header, 1-install_load_balancer, 2-puppet_custom_httpss_response_header.pp, README.md|
+|**[attack_is_the_best_defense](https://github.com/IkwukaCySec/alx-system_engineering-devops/tree/master/attack_is_the_best_defense)**|0-sniffing, 1-dictionary_attack, README.md|
 |||
